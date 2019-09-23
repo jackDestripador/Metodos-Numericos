@@ -1,4 +1,4 @@
-/* Metodo de la bisección
+/* Metodo de la biseccion
 
 Cisneros Cantero jesus 23/03/2019
 */
