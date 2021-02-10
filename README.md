@@ -1,2 +1,6 @@
 # Metodos-Numericos
-Metodo de la Biseccion
+
+Ejemplo de ejercicios de metodos númericos
+tales como:
+
+ * Metodo de la Biseccion
